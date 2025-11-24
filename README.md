@@ -6,7 +6,7 @@
 
 <img width="262" height="247" alt="image" src="https://github.com/user-attachments/assets/8781948d-d2cb-4288-89ab-8f7fa5d81edb" />
 
-设置界面中的关键词匹配：
+设置界面中的关键词匹配（可自行删改）：
 
 <img width="388" height="596" alt="image" src="https://github.com/user-attachments/assets/23cbaf92-eb9f-471b-831c-91551aa4ecd2" />
 
@@ -21,5 +21,6 @@
 此外双击界面还可以最小化（再次双击可以复原），最小化后变为一个很窄的显示条，如图：
 
 <img width="261" height="37" alt="image" src="https://github.com/user-attachments/assets/f56df0b4-a3d9-4836-a030-936a49386491" />
+
 
 
