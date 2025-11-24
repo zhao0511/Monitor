@@ -6,6 +6,7 @@
 
 <img width="262" height="247" alt="image" src="https://github.com/user-attachments/assets/8781948d-d2cb-4288-89ab-8f7fa5d81edb" />
 
+
 <img width="388" height="596" alt="image" src="https://github.com/user-attachments/assets/23cbaf92-eb9f-471b-831c-91551aa4ecd2" />
 
 如图所示，设置界面中还可设置是否开机自启动、每日目标、每日更新数据的时间，每日目标决定了进度条的总长度，从而通过进度条可直观查看目标实现状况。
@@ -19,3 +20,4 @@
 此外双击界面还可以最小化（再次双击可以复原），最小化后变为一个很窄的显示条，如图：
 
 <img width="261" height="37" alt="image" src="https://github.com/user-attachments/assets/f56df0b4-a3d9-4836-a030-936a49386491" />
+
