@@ -1,0 +1,16 @@
+# 忽略编译生成的文件夹
+build/
+dist/
+__pycache__/
+*.spec
+
+# 忽略用户隐私数据 (非常重要！)
+*.csv
+detailed_log.csv
+history.csv
+
+# 忽略本地配置文件 (可选，如果你想保留默认配置供他人参考，可以不加这一行)
+# monitor_config.json
+
+# 忽略 IDE 配置文件 (如果你用 VSCode)
+.vscode/

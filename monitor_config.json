@@ -1,0 +1,33 @@
+{
+    "work": [
+        "课堂实录",
+        "Blackboard",
+        "Learn",
+        "Lecture",
+        "最优化方法",
+        "Visual",
+        "Studio",
+        ".py",
+        "WPS",
+        "monitor",
+        "Obsidian",
+        "SimpleTex",
+        "MindTask",
+        "RStudio",
+        "Gemini",
+        "DeepSeek"
+    ],
+    "play": [
+        "bilibili",
+        "哔哩哔哩",
+        "贴吧",
+        "steam",
+        "game",
+        "视频",
+        "douyin",
+        "北大树洞"
+    ],
+    "goal_work": 120,
+    "goal_play": 40,
+    "day_start_hour": 2
+}
