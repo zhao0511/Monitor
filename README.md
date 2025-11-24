@@ -26,6 +26,7 @@
 
 ### 安装
 
-只有Windows系统版本，
+只有Windows系统版本，点击链接安装：https://github.com/zhao0511/Monitor/releases/tag/v1.0.0
+
 
 
