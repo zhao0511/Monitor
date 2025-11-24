@@ -2,7 +2,7 @@
 
 <img width="255" height="178" alt="image" src="https://github.com/user-attachments/assets/9509db49-1448-4e89-85c6-c78aba4db5c3" />
 
-通过抓取当前运行的窗口的名称实现，可以自行设置关键词匹配。界面左下角显示的是当前抓取到的软件/网站名称，鼠标移动到上面时可现实可显示完整内容，帮助正确设置关键词。
+通过抓取当前运行的窗口的名称实现，可以自行设置关键词匹配。界面左下角显示的是当前抓取到的软件/网站名称，鼠标移动到上面时可显示完整内容，帮助正确设置关键词。下图是我在编辑此文档时抓取的窗口名称，作为一个例子：
 
 <img width="262" height="247" alt="image" src="https://github.com/user-attachments/assets/8781948d-d2cb-4288-89ab-8f7fa5d81edb" />
 
@@ -21,6 +21,7 @@
 此外双击界面还可以最小化（再次双击可以复原），最小化后变为一个很窄的显示条，如图：
 
 <img width="261" height="37" alt="image" src="https://github.com/user-attachments/assets/f56df0b4-a3d9-4836-a030-936a49386491" />
+
 
 
 
